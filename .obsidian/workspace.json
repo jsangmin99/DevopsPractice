@@ -13,31 +13,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "환영합니다!.md",
+                "file": "리눅스 3일차.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "환영합니다!"
+              "title": "리눅스 3일차"
             }
-          }
-        ]
-      },
-      {
-        "id": "dc9e726648cac01d",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "023f2a8e3c932927",
+            "id": "4442bc1dfed9ecd5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "리눅스 3일차.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "리눅스 3일차"
+            }
+          },
+          {
+            "id": "78e8b4a75ea2b345",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-06-25 13.53.08.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-25 13.53.08.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 227.5
   },
   "right": {
     "id": "f4d05eed46afed87",
@@ -110,17 +121,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "환영합니다!.md",
+                "file": "리눅스 3일차.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "환영합니다! 의 백링크"
+              "title": "리눅스 3일차 의 백링크"
             }
           },
           {
@@ -129,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "환영합니다!.md",
+                "file": "리눅스 3일차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "환영합니다! 의 나가는 링크"
+              "title": "리눅스 3일차 의 나가는 링크"
             }
           },
           {
@@ -158,21 +169,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "환영합니다!.md",
+                "file": "리눅스 3일차.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "환영합니다! 의 개요"
+              "title": "리눅스 3일차 의 개요"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,11 +192,24 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8f6550213d7182ec",
+  "active": "1680076c0acad057",
   "lastOpenFiles": [
-    "환영합니다!.md"
+    "Pasted image 20250625144302.png",
+    "Pasted image 20250625143252.png",
+    "AWS 자격증 준비.md",
+    "Pasted image 20250625112547.png",
+    "리눅스 3일차.md",
+    "Pasted image 20250625142752.png",
+    "Excalidraw/Drawing 2025-06-25 13.53.08.excalidraw.md",
+    "Pasted image 20250625133116.png",
+    "Excalidraw",
+    "리눅스 1일차.md",
+    "Pasted image 20250625133114.png",
+    "Pasted image 20250625132443.png",
+    "Pasted image 20250625123700.png"
   ]
 }
